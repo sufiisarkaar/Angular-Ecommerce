@@ -1,0 +1,35 @@
+# Dependency directories
+/node_modules/
+.angular
+
+# Compiled output
+/dist
+
+# Environment variables
+/src/environments/*.js
+
+# Editor-specific files
+.idea/
+.vscode/
+
+# Logs
+/logs/
+*.log
+
+# Build artifacts
+/build/
+
+# Cache and temporary files
+.cache/
+.tmp/
+.DS_Store
+
+# Miscellaneous
+/tmp/
+.env
+
+# Ignore package-lock.json for npm
+package-lock.json
+
+# Ignore yarn.lock for Yarn
+yarn.lock
